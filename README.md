@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Dheeraj Verma
 
-<!--
-**dheerajverma885370-glitch/dheerajverma885370-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about software development, problem-solving, and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, DSA & Full Stack Development
+- 💻 Interested in Software Engineering and Web Technologies
+- 🚀 Building practical development projects
+- 🎯 Focused on continuous learning and growth
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming:** Java, C
+
+**Frontend:** HTML, CSS, JavaScript, React.js
+
+**Backend:** Node.js, Express.js
+
+**Database:** MySQL
+
+**Tools:** VS Code, Git, GitHub
+
+---
+
+### 📌 Featured Projects
+
+- STIAS – Student Teacher Interaction & Analysis System
+- AETHER – Autonomous Digital World Intelligence System
+
+---
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Dheeraj Verma](https://www.linkedin.com/in/dheeraj-verma-2358a434a/)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
